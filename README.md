@@ -15,8 +15,8 @@ if(you == expected) readThis();
  * Моя основная специальность - Flutter разработка. Могу поддерживать все доступные платформы (Android-iOS/Web/Desktop)
  * Благодаря работе в event-сфере, у меня развиты soft-skills, такие как: коммуникативные навыки, стрессоустойчивость, ответственность, управленческие наывыки
  * Хочу стать PM, на текущий момент я middle flutter разработчик
-### Связаться
-[<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' width='24'>](https://t.me/dazevichwebs) [<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' width='24'>](mailto:dazevichweb@yandex.ru)
+
+Контакты для связи можно найти [тут](https://github.com/dazevich/dazevich/edit/product/README.md#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
 ### Оглавление
 * [Мой опыт](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BC%D0%BE%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82)
   * [Домашние и учебные проекты](https://github.com/dazevich/dazevich/edit/product/README.md#-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
@@ -27,6 +27,7 @@ if(you == expected) readThis();
 * [Soft skills](https://github.com/dazevich/dazevich/edit/product/README.md#soft-skills)
 * [Мотивация](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F)
 * [Пожелания](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BF%D0%BE%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F)
+* [Свяжитесь со мной](https://github.com/dazevich/dazevich/edit/product/README.md#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
 
 ## Мой опыт
 ### 🌱 Домашние и учебные проекты
@@ -81,6 +82,14 @@ kReleaseMode = true;
 
 ## Пожелания 🌠
 Мой опыт пока не назвать особенно большим, но я попробовал себя в бэкенде, фронтенде и UI дизайне. Со временем я хочу перейти в проджект менеджмент, поэтому был бы рад принять участие в open source проекте или стартапе в качестве PM
+
+## Свяжитесь со мной
+```
+// иконки кликабельные
+```
+* [<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' width='24'>](https://t.me/dazevichwebs) 
+* [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/2048px-Yandex_Mail_icon.svg.png' width='24'>](mailto:dazevichweb@yandex.ru)
+* +7 (921) 102 48 68
 
 <!--
 **dazevich/dazevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
