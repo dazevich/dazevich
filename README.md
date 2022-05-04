@@ -16,18 +16,18 @@ if(you == expected) readThis();
  * Благодаря работе в event-сфере, у меня развиты soft-skills, такие как: коммуникативные навыки, стрессоустойчивость, ответственность, управленческие наывыки
  * Хочу стать PM, на текущий момент я middle flutter разработчик
 
-Контакты для связи можно найти [тут](https://github.com/dazevich/dazevich/edit/product/README.md#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
+Контакты для связи можно найти [тут](https://github.com/dazevich#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
 ### Оглавление
-* [Мой опыт](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BC%D0%BE%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82)
-  * [Домашние и учебные проекты](https://github.com/dazevich/dazevich/edit/product/README.md#-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
-  * [Коммерческие проекты](https://github.com/dazevich/dazevich/edit/product/README.md#-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
-* [Hard skills](https://github.com/dazevich/dazevich/edit/product/README.md#hard-skills)
-  * [Flutter](https://github.com/dazevich/dazevich/edit/product/README.md#-flutter)  
-  * [Other](https://github.com/dazevich/dazevich/edit/product/README.md#-other)
-* [Soft skills](https://github.com/dazevich/dazevich/edit/product/README.md#soft-skills)
-* [Мотивация](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F)
-* [Пожелания](https://github.com/dazevich/dazevich/edit/product/README.md#%D0%BF%D0%BE%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F)
-* [Свяжитесь со мной](https://github.com/dazevich/dazevich/edit/product/README.md#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
+* [Мой опыт](https://github.com/dazevich#%D0%BC%D0%BE%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82)
+  * [Домашние и учебные проекты](https://github.com/dazevich#-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+  * [Коммерческие проекты](https://github.com/dazevich#-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+* [Hard skills](https://github.com/dazevich#hard-skills)
+  * [Flutter](https://github.com/dazevich#-flutter)  
+  * [Other](https://github.com/dazevich#-other)
+* [Soft skills](https://github.com/dazevich#soft-skills)
+* [Мотивация](https://github.com/dazevich#%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F-)
+* [Пожелания](https://github.com/dazevich#%D0%BF%D0%BE%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F-)
+* [Свяжитесь со мной](https://github.com/dazevich#%D1%81%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9)
 
 ## Мой опыт
 ### 🌱 Домашние и учебные проекты
