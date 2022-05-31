@@ -31,6 +31,8 @@ if(you == expected) readThis();
 
 ## Мой опыт
 [Мой текущий pet-проект](https://github.com/dazevich/simple_isolates) - пакет для удобной работы с изолятами для решения простых задач (прим. парсинг). (Dart)
+ * [<img src='https://img.shields.io/badge/Flutter-SimpleIsolates-blue'>](https://github.com/dazevich/simple_isolates) 
+ * [<img src='https://img.shields.io/badge/Flutter-Example application-blue'>](https://github.com/dazevich/example_contact_app)
 ### 🌱 Домашние и учебные проекты
 ```dart
 void main() {
@@ -85,9 +87,4 @@ kReleaseMode = true;
 Мой опыт пока не назвать особенно большим, но я попробовал себя в бэкенде, фронтенде и UI дизайне. Со временем я хочу перейти в проджект менеджмент, поэтому был бы рад принять участие в open source проекте или стартапе в качестве PM
 
 ## Свяжитесь со мной
-```
-// иконки кликабельные
-```
-* [<img src='https://cdn-icons-png.flaticon.com/512/906/906377.png' width='24'>](https://t.me/dazevichwebs) 
-* [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/2048px-Yandex_Mail_icon.svg.png' width='24'>](mailto:dazevichweb@yandex.ru)
-* +7 (921) 102 48 68
+[<img src='https://img.shields.io/badge/dazevichweb-telegram-blue'>](https://t.me/dazevichwebs) [<img src='https://img.shields.io/badge/email-mail.yandex-orange'>](mailto:dazevichweb@yandex.ru)
